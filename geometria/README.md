@@ -1,2 +1,0 @@
-# geometria
-Projeto Geometria
